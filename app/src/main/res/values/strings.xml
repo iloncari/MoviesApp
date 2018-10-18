@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="cover_image">Cover image</string>
+    <string name="poster_image">Poster image</string>
+
+    <string name="genres_value">Genre1, Genre2, Genre3</string>
+    <string name="votes_text">x.x (xxxx votes)</string>
+    <string name="released_text">xxxx-xx-xx</string>
+    <string name="title_text">Movie Title Here</string>
+    <string name="overview_text">Overview</string>
+    <string name="link_text">www.unknown.hr</string>
+    <string name="popularity_text">xx.xxxx</string>
+    <string name="country_text">Country</string>
+
+    <string name="internet_conn_text">No Internet connection! Please connect your device to the Internet!</string>
+    <string name="try_text">Try again</string>
+
+    <string name="internet_conn_text_two_pcs">No Internet connection!\nPlease connect your device to the Internet!</string>
+
+
+</resources>
